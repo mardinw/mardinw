@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-an ordinary computer science student
+Well I don't know, I'll let you decide who you think I am. In the flesh liveness probes over the coffee protocol may be possible if you're in Bandung, Indonesia. 
 
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mardinw)](https://git.io/streak-stats)
