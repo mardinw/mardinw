@@ -22,4 +22,4 @@ Well I don't know, I'll let you decide who you think I am. In the flesh liveness
 
 ## Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mardinw&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardinw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardinw)](https://github.com/anuraghazra/github-readme-stats)
