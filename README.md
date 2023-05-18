@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+an ordinary computer science student
+
+## Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mardinw)](https://git.io/streak-stats)
+
+## Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mardinw&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardinw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
