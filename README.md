@@ -1,4 +1,3 @@
-### Hi there 👋
 <p>
   <h1 align="center">Mang 'Ndin is here</h1>
 </p>
