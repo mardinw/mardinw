@@ -9,18 +9,15 @@
 
 <!--
 **mardinw/mardinw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## Hi, I'm Mardin Wijaya a.k.a Petr0max 👋
+Passionate Backend Developer with experience DevOps and sometimes handle Frontend Developer, I'm focus on Golang, Java & JavaScript Development.
+
+- 💼 I’m currently looking for a job Backend Developer. If you have information in these position, please feel free contact me
+- 🌱 I’m currently learning anything I can get my hands on!
+- 📫 How to reach me: mardinwijaya46@gmail.com
+- 📃 Know about my experiences : https://www.linkedin.com/in/mardinwijaya
+
 ## About Me
 Well I don't know, I'll let you decide who you think I am. In the flesh liveness probes over the coffee protocol may be possible if you're in Bandung, Indonesia. 
 
