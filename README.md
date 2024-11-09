@@ -11,7 +11,7 @@
 **mardinw/mardinw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Hi, I'm Mardin Wijaya a.k.a Petr0max 👋
-Passionate Backend Developer with experience DevOps and sometimes handle Frontend Developer, I'm focus on Golang, PHP & JavaScript Development.
+Passionate Backend Developer with experience DevOps and sometimes handle Frontend Developer, I'm focus on Golang, Python, PHP & JavaScript Development.
 
 - 💼 I’m currently looking for a job Fullstack Developer. If you have information in these position, please feel free contact me
 - 🌱 I’m currently learning anything I can get my hands on!
