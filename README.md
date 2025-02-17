@@ -2,7 +2,7 @@
   <h1 align="center">Mardin Wijaya is here</h1>
 </p>
 <p align="center">
-<a href="https://mardinwijaya.my.id"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Blog" /></a>&nbsp;
+<a href="https://mardin.my.id"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Blog" /></a>&nbsp;
 <a href="https://twitter.com/petr0max"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/mardinwijaya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br/>
